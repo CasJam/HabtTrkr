@@ -85,6 +85,7 @@ class HabitsController < ApplicationController
     @habit = Habit.find(params[:id])
   rescue ActiveRecord::RecordNotFound
     head :not_found
+    return
   end
 
   # Only allow a list of trusted parameters through.
