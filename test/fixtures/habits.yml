@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+drink_water:
+  title: "Drink 8 glasses of water"
+  description: "Stay hydrated throughout the day by drinking water regularly"
+
+exercise:
+  title: "30 minutes of exercise"
+  description: "Daily cardio or strength training to maintain fitness"
+
+reading:
+  title: "Read for 20 minutes"
+  description: "Read books to expand knowledge and improve focus"
+
+meditation:
+  title: "10 minutes meditation"
+  description: null

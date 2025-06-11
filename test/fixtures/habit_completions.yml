@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+water_completed_today:
+  habit: drink_water
+  completed_on: <%= Date.current %>
+
+exercise_completed_yesterday:
+  habit: exercise
+  completed_on: <%= Date.current - 1.day %>

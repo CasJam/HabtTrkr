@@ -1,0 +1,7 @@
+- [x] User can create habits with titles and descriptions
+- [x] User can view a list of all their habits
+- [x] User can mark habits as completed for today
+- [x] User can see their completion streak for each habit
+- [x] User can edit habit titles and descriptions
+- [x] User can delete habits
+- [x] User can see a simple streak at the top of the home page showing their past 14 days and completions streak during this period.
